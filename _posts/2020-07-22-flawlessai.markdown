@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Research Engineer"
-date:   2023-06-22 18:08:39 +00:00  -  present
+date:   2023-06-22 18:08:39 +00:00 
 image: /images/flawlessai.png
 categories: Work
-Location: Los Angeles
+Location: Los Angeles, USA
 duration: July 2023 - present
+website: www.flawlessai.com
 ---
 N/A
 
