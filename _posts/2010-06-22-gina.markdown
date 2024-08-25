@@ -4,7 +4,7 @@ title:  "Research Engineer"
 date:   2023-06-22 18:08:39 +00:00  -  present
 image: /images/flawlessai.png
 categories: Work
-Location: "Los Angeles"
+Location: Los Angeles
 ---
 N/A
 
