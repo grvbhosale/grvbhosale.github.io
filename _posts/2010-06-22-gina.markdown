@@ -3,7 +3,7 @@ layout: post
 title:  "N/A"
 date:   2020-12-22 18:08:39 +00:00
 image: /images/gina-motes.jpg
-categories: UC
+categories: Work
 course: " WPI"
 author: "Me"
 subtitle: "A low power, wireless sensor"
