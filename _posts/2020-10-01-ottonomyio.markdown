@@ -2,7 +2,7 @@
 layout: post
 title:  "Perception Engineer"
 date:   2021-01-01 00:00:00 +00:00 
-image: /images/ottonomy.png
+image: /images/ottonomy.jpg
 categories: Work
 Location: Noida, India
 duration: January 2021 - May 2021
