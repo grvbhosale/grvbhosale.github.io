@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "AI Research Intern (Vision & Graphics)"
+date:   2022-05-01 00:00:00 +00:00 
+image: /images/sonyinteractive.png
+categories: Work
+Location: San Mateo, CA
+duration: May 2022 - August 2022
+website: www.sonyinteractive.com
+code: https://github.com/grvbhosale/PS_internship
+slides: https://github.com/grvbhosale/PS_internship
+---
+- Innovated a Text-to-3D deep learning architecture, transforming text into 3D video game assets.
+- Implemented a novel architecture for generating 3D meshes conditioned on text input (Text-to-3D). 
+- Extended the SDF-based method with a novel contrastive learning loss to achieve the transformation and generation of chairs based on text tags.
+- Achieved comparable qualitative results to state-of-the-art approaches.

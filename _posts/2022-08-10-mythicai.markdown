@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Machine Learning Intern"
+date:   2022-08-01 00:00:00 +00:00 
+image: /images/mythicai.png
+categories: Work
+Location: Redwood City, CA
+duration: August 2022 - November 2022
+website: www.mythic-ai.com
+---
+- Spearheaded ML-based object tracking and segmentation tailored for Mythic’s AI Accelerator Chips, utilizing PyTorch, Python, and W&B.
+- Launched a multi-camera object tracking feature integrated within Mythic’s SDK, leveraging C++, ROS, and GCP.
