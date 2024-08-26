@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Graduate Researcher"
+date:   2023-01-01 00:00:00 +00:00 
+image: /images/WPI_logo.png
+categories: Work
+Location: Worcester, MA
+duration: January 2023 - May 2023
+website: www.wpi.edu
+---
+- Piloted experiments on diverse sampling and training methodologies to develop advanced deep learning models for depth completion.
+- Enhanced depth completion models by introducing traceability for underperforming data samples, utilizing PyTorch, HPC, and CUDA.
